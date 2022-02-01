@@ -1,0 +1,4 @@
+Sitemap: https://infofiche.uk/sitemapindex.xml
+
+User-Agent: *
+Host: infofiche.uk
