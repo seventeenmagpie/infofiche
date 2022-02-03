@@ -157,7 +157,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "oldfashioned"
+THEME = "bootblog-jinja"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -186,7 +186,7 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': 'blog_sidebar',
     }
 }
 # Config for bootstrap4:
@@ -201,6 +201,16 @@ THEME_CONFIG = {
 #         'navbar_custom_bg': '',
 #     }
 # }
+
+
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ("/index.html", "Home"),
+        ("/archive.html", "Archives"),
+        ("/categories/index.html", "Tags"),
+        ("/rss.xml", "RSS feed"),
+    ),
+}
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -1406,7 +1416,21 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {'blog_sidebar': """\
+<div class="sidebar-module sidebar-module-inset">
+  <h4>About</h4>
+  <p>Infofiche is a blog about science fiction, fantasy and linguistics. Made by Seventeen Magpie and sparked by Arkady Martine's <em>A Memory Called Empire</em>.</p>
+</div>
+<div class="sidebar-module">
+  <h4>Links</h4>
+  <ol class="list-unstyled">
+    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+    <li><a href="https://getnikola.com/">Nikola</a></li>
+    <li><a href="https://twitter.com/Kwpolska">Tweet!</a></li>
+    <li><a href="https://twitter.com/GetNikola">Built with Nikola</a></li>
+  </ol>
+</div>
+"""}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
