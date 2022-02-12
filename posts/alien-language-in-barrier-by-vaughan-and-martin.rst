@@ -13,6 +13,8 @@ Barrier is a comic by Brian K. Vaughan and Marcos Martin, with Muntsa Vicente. I
 
 .. TEASER_END
 
+
+
 It turns out that not only is my Spanish not great, it's Castellano which is the wrong variety for me to understand every word the fluent and Honduras-native Oscar says. This is a comic about language barriers, and there's one right there. This gave the first few Oscar sequences (in which he and an unnamed woman attempt to cross the Mexico-America border) a surreal edge, as I didn't fully understand the dynamics of his conversation with the cartel or relation to the woman, even if I could piece together what was said.
 
 I had a better time understanding Liddy, the English speaking rancher whose land the cartels have been crossing - she thinks. Her early sequences are about establishing that her life is marked by tragedy, but supported by community and that she's very tough. A cartel has killed one of her horses as a warning, and she hates them and anyone who associates with them.
