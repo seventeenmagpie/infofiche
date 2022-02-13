@@ -1,4 +1,4 @@
-.. title: has reads
+.. title: Has Reads
 .. slug: has-reads
 .. date: 2022-02-12 18:21:22 UTC
 .. tags: 
@@ -13,19 +13,24 @@ A note on how I read: I typically have three books on the go at once. One book w
 
 I'm not providing copious bibliographic information because I don't think thats important and title and year is enough to find most editions. Finally, this list started in February and my memory is poor so pre feb, watch out. Without futher ado, here are the books I read in 2022 (most recent to least). 
 
+
 2022
 ====
 
+
 February:
 ---------
-- *Aliens and Linguists* by Walter E. Meyers (1980),
-- *Buddha* by Osamu Tezuka. Volumes 1 and 2 of the English translation, 
-- *Barrier* by Brian K. Vaughan, Marcos Martin and Muntsa Vicente,
-- *The Language Instinct* by Steven Pinker (2007),
-- *A Memory Called Empire* by Arkady Martine (2019),
+- *The Psychology of Money* by Morgan Housal (2020)
+- *Aliens and Linguists* by Walter E. Meyers (1980)
+- *Buddha* by Osamu Tezuka. Volumes 1 and 2 of the English translation
+- *Barrier* by Brian K. Vaughan, Marcos Martin and Muntsa Vicente. I've written about it :doc:`on Infofiche <alien-language-in-barrier-by-vaughan-and-martin>`
+- *The Language Instinct* by Steven Pinker (2007)
+- *A Memory Called Empire* by Arkady Martine (2019)
+
 
 January:
 --------
-- *The Shadow of the Torturer* by Gene Wolfe (2016),
-- *The Complete Debarkle 1880 to 2020* by Camestros Felapton (2021),
-- *Titus Alone* by Mervyn Peake (1970) DNF,
+- *The Shadow of the Torturer* by Gene Wolfe (2016)
+- *The Complete Debarkle 1880 to 2020* by Camestros Felapton (2021)
+- *Titus Alone* by Mervyn Peake (1970) DNF
+- *Why I'm no Longer Talking to White People About Race* by Reni Eddo-Lodge (2018)
