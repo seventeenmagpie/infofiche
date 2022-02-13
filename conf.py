@@ -206,7 +206,7 @@ THEME_CONFIG = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
-        ("/archive.html", "Archives"),
+        ("/pages/about/", "About"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
     ),
@@ -1424,10 +1424,8 @@ GLOBAL_CONTEXT = {'blog_sidebar': """\
 <div class="sidebar-module">
   <h4>Links</h4>
   <ol class="list-unstyled">
-    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
-    <li><a href="https://getnikola.com/">Nikola</a></li>
-    <li><a href="https://twitter.com/Kwpolska">Tweet!</a></li>
     <li><a href="https://twitter.com/GetNikola">Built with Nikola</a></li>
+    <li><a href="https://infofiche.uk/pages/has-reads/">Has reads</a></li>
   </ol>
 </div>
 """}
