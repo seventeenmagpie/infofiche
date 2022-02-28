@@ -162,7 +162,7 @@ THEME = "bootblog-jinja"
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
-THEME_COLOR = '#000000'
+THEME_COLOR = '#eb9a2a'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.
@@ -1031,12 +1031,12 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, intensedebate, isso, muut, commento, utterances
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = ""
+COMMENT_SYSTEM = "disqus"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = ""
+COMMENT_SYSTEM_ID = "infofiche"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually
@@ -1419,7 +1419,7 @@ WARN_ABOUT_TAG_METADATA = False
 GLOBAL_CONTEXT = {'blog_sidebar': """\
 <div class="sidebar-module sidebar-module-inset">
   <h4>About</h4>
-  <p>Infofiche is a blog about science fiction, fantasy and linguistics. Made by Seventeen Magpie and sparked by Arkady Martine's <em>A Memory Called Empire</em>.</p>
+  <p>Infofiche is a blog about science fiction, fantasy and linguistics. Made by Seventeen Magpie and sparked by Arkady Martine's <em>A Memory Called Empire</em>. I post on the nth day of the nth month, where n is each of the natural numbers from 1 to 12.</p>
 </div>
 <div class="sidebar-module">
   <h4>Links</h4>
