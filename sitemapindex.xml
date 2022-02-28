@@ -6,39 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://infofiche.uk/categories/cat_discussions.xml</loc>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://infofiche.uk/categories/cat_meta.xml</loc>
-  <lastmod>2022-02-13T13:44:00Z</lastmod>
+  <lastmod>2022-02-16T18:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/comics.xml</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/infofiche.xml</loc>
-  <lastmod>2022-02-13T13:44:00Z</lastmod>
+  <lastmod>2022-02-16T18:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/language-barriers.xml</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/review.xml</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/sf.xml</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://infofiche.uk/categories/sff-linguistics.xml</loc>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/galleries/rss.xml</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-02-28T10:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/rss.xml</loc>
-  <lastmod>2022-02-13T13:44:00Z</lastmod>
+  <lastmod>2022-02-26T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/sitemap.xml</loc>
-  <lastmod>2022-02-13T13:44:00Z</lastmod>
+  <lastmod>2022-02-28T10:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>
