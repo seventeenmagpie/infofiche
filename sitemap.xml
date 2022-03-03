@@ -7,78 +7,86 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://infofiche.uk/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/2022/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/archive.html</loc>
-  <lastmod>2022-02-28T10:10:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/</loc>
-  <lastmod>2022-02-26T17:44:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://infofiche.uk/categories/a-memory-called-empire/</loc>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/cat_discussions/</loc>
-  <lastmod>2022-02-26T17:44:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/cat_meta/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/comics/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/infofiche/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/language-barriers/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/review/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/sf/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/sff-linguistics/</loc>
-  <lastmod>2022-02-26T17:44:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/galleries/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/listings/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/pages/about/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/pages/has-reads/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/posts/alien-language-in-barrier-by-vaughan-and-martin/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/posts/infofiche-update/</loc>
-  <lastmod>2022-02-13T13:39:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://infofiche.uk/posts/language-alienation-and-assimilation-in-a-memory/</loc>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/posts/whats-in-a-name/</loc>
-  <lastmod>2022-02-13T12:04:00Z</lastmod>
+  <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
 </urlset>

@@ -6,6 +6,7 @@
 .. link: 
 .. description:
 .. type: text
+.. nocomments: True
 
 Hello. It is January in the year 2022 and I've spent the past six months on a school project that has made me realise how much I love science fiction and fantasy and linguistics and how I have a lot more to say than can reasonably fit in a 5000 word essay - hence this blog!
 

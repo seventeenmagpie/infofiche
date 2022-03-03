@@ -2,7 +2,7 @@
 .. slug: alien-language-in-barrier-by-vaughan-and-martin
 .. date: 2022-02-02 22:00:00 UTC
 .. tags: language-barriers, comics, review, sf, sff-linguistics
-.. category: discussions, 
+.. category: discussions
 .. link: 
 .. description: 
 .. type: text
