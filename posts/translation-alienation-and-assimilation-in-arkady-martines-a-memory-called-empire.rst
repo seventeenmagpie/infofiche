@@ -2,12 +2,12 @@
 .. slug: language-alienation-and-assimilation-in-a-memory
 .. date: 2022-03-03 03:03:03 UTC
 .. tags: sf, sff-linguistics, a-memory-called-empire
-.. category: Discussions
+.. category: discussions
 .. link: 
 .. description: 
 .. type: text
 
-(Meta note: new posts are on the nth day of the nth month at the nth minute, nth hour, nth second. Be there or be square!(Actually, the posts aren't scheduled, they appear when I set them to, but that's when I'll aim.)) 
+(Meta note: new posts are on the nth day of the nth month at the nth minute, nth hour, nth second. Be there or be square (I am the square when I forget to post.) Also, I've added comments since you last saw me. Please use them responsiby.) 
 
 Hello readers! Wellcome to the second SFF linguistics blog post, this time about alienation and assimilation in *A Memory Called Empire*...
 
@@ -18,6 +18,7 @@ One of the (many) tools Martine uses to achieve this is language. Mahit does not
 .. TEASER_END
 
 *A Memory* was written in English in the early 21st century. This means that all its linguistic doings are in contrast to the language of this period, and this holds in translation as well since she is using a fictional language for Teixcalaan. Though *aesthetic* effects may be different if one speaks Greek or Nahuatl [#TWEET]_, the languages Teixcalaan is inspired by, the effects caused by the Teixcalaan in contrast with the surrounding (real, modern) language remain. Additionally, commentary within *A Memory* on the subject of language remain in translations as well.
+
 
 What Martine does with her fictional language allows us to experience the same assimilation and alienation that Mahit does. There's a number of ways this is achieved, which I shall consider below.
 
