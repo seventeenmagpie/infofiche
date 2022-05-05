@@ -30,7 +30,7 @@ March:
 - *Buddha* by Osamu Tezuka. Volume 4 of the English translation,
 - *The Elements of Eloquence* by Mark Forsyth (2013),
 - *How to Read a Poem* by Roy Thomas (1965),
-- *Too Like the Lightning* by Ada Palmer (2017)*,
+- *Too Like the Lightning* by Ada Palmer (2017)* I've written about it :doc:`on Infofiche <when-the-languages-might-not-be-fictional-terra-ignota>`,
 - *The Night Circus* by Erin Morgenstern (2013),
 - *Bad Pharma* by Bed Goldacre (2013),
 
