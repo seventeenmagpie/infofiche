@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://infofiche.uk/</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-02T17:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/2022/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://infofiche.uk/archive.html</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-05T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-05T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/a-memory-called-empire/</loc>
@@ -50,12 +50,20 @@
   <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
+  <loc>https://infofiche.uk/categories/sf-linguistics/</loc>
+  <lastmod>2022-05-05T19:49:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://infofiche.uk/categories/sf/</loc>
   <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/sff-linguistics/</loc>
   <lastmod>2022-03-03T20:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://infofiche.uk/categories/terra-ignota/</loc>
+  <lastmod>2022-05-05T19:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/galleries/</loc>
@@ -88,5 +96,9 @@
  <url>
   <loc>https://infofiche.uk/posts/whats-in-a-name/</loc>
   <lastmod>2022-03-03T20:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://infofiche.uk/posts/when-the-languages-might-not-be-fictional-terra-ignota/</loc>
+  <lastmod>2022-05-05T19:52:00Z</lastmod>
  </url>
 </urlset>

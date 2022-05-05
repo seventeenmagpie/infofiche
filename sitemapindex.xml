@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://infofiche.uk/categories/a-memory-called-empire.xml</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-03-03T20:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/cat_discussions.xml</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-05T19:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/cat_meta.xml</loc>
@@ -34,12 +34,20 @@
   <lastmod>2022-03-03T20:41:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://infofiche.uk/categories/sf-linguistics.xml</loc>
+  <lastmod>2022-05-05T19:59:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://infofiche.uk/categories/sf.xml</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-05T19:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/sff-linguistics.xml</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-03-03T20:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://infofiche.uk/categories/terra-ignota.xml</loc>
+  <lastmod>2022-05-05T19:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/galleries/rss.xml</loc>
@@ -47,10 +55,10 @@
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/rss.xml</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-05T19:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/sitemap.xml</loc>
-  <lastmod>2022-03-03T20:41:00Z</lastmod>
+  <lastmod>2022-05-05T19:59:00Z</lastmod>
  </sitemap>
 </sitemapindex>
