@@ -3,7 +3,7 @@
 'render_taxonomies', (1024, 56)
 'render_posts:cache\\posts\\salutations.html', (1536, 367)
 'copy_assets:output\\assets\\js\\html5.js', (2048, 401)
-'sitemap:output\\sitemap.xml', (443904, 6611)
+'sitemap:output\\sitemap.xml', (443904, 6610)
 'copy_assets:output\\assets\\js\\bootstrap.min.js', (175104, 731)
 'sitemap', (7680, 56)
 'copy_assets:output\\assets\\js\\justified-layout.min.js', (8192, 432)
