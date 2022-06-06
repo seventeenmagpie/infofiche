@@ -18,6 +18,15 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 2022
 ====
 
+May:
+----
+- *A Brief History of Everyone who Ever lived* by Adam Rutherford,
+- *Craft in the Real World* by Matthew Salesses,
+- *The Poppy War* by R. F. Kuang (2018),
+- *Beowulf: A New Translation* by Maria Dahvana Headley*,
+- *Seven Surrenders* by Ada Palmer,
+- *Darwin* by Adrian Desmond and James Moore (took me 40 days, hence the only two books of April),
+
 April:
 ------
 - *The Story of Silence* by Alex Myers,
