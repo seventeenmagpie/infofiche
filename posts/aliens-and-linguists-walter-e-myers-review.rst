@@ -11,7 +11,11 @@
 
 When I was beginning this project of learning about science-fictional linguistics, one of the tasks we had to do was review the literature in the field - preliminary research before the real work started. Fortunately, I had mercifully few resources to hand as there is exactly one published academic monograph on this subject (that I could find). That book is *Aliens and Linguists* by Walter E. Myers and it was published in 1982 (so perhaps its time for someone to write a more modern one). I had a hard time getting a copy, but eventually managed and, whilst it didn't inform much of that project it is worth discussing anyway, at least so there's something more informative about it on the internet for the next person.
 
+More below the fold!
+
 .. five minute review
+
+.. TEASER_END
 
 Five Minutes:
 ------------------
