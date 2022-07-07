@@ -17,6 +17,10 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 
 2022
 ====
+June:
+-----
+- *Claw of the Conciliator* by Gene Wolfe,
+
 
 May:
 ----
@@ -25,7 +29,7 @@ May:
 - *The Poppy War* by R. F. Kuang (2018),
 - *Beowulf: A New Translation* by Maria Dahvana Headley*,
 - *Seven Surrenders* by Ada Palmer,
-- *Darwin* by Adrian Desmond and James Moore (took me 40 days, hence the only two books of April),
+- *Darwin* by Adrian Desmond and James Moore (took me 40 days),
 
 April:
 ------

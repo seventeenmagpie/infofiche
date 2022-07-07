@@ -1,6 +1,6 @@
 .. title: The Locked Tomb and Absent Paradigms
 .. slug: the-locked-tomb-and-absent-paradigms
-.. date: 2022-07-07 07:07:07 UTC
+.. date: 2025-07-07 07:07:07 UTC
 .. tags: 
 .. category: 
 .. link: 
