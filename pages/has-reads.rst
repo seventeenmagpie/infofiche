@@ -17,10 +17,17 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 
 2022
 ====
+July:
+------
+- *Going Postal* by Terry Pratchett*,
+- *The Ethics* by Benedict de Spinoza,
+- *Paradise Lost* by John Milton,
+- *The Dawn of Everything* by David Graeber and David Wengrow*,
+
+
 June:
 -----
 - *Claw of the Conciliator* by Gene Wolfe,
-
 
 May:
 ----
