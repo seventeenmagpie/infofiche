@@ -1,5 +1,5 @@
 .. title: Aliens and Linguists by Walter E. Myers
-.. slug: aliens-and-linguists-walter-e-myers-review
+.. slug: aliens-and-linguists-review
 .. date: 2022-06-06 06:06:06 UTC
 .. tags: review, 
 .. category: discussions
