@@ -17,8 +17,22 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 
 2022
 ====
+September:
+----------
+- *Battle of the Linguist Mages* by Scotto Moore,
+
+August:
+-------
+- *The End of Everything (Astrophysically Speaking)* by Katie Mack*,
+- *The Government of No One: The Theory and Practice of Anarchism* by Ruth Kinna,
+- *The Invention of Racism in Classical Antiquity* by Benjamin Isaac,
+- *Jews Don't Count* by David Baddiel,
+- *South To America* by Imani Perry,
+- *The Will to Battle* by Ada Palmer*,
+
 July:
 ------
+- *A Gentleman in Moscow* by Amor Towles,
 - *Going Postal* by Terry Pratchett*,
 - *The Ethics* by Benedict de Spinoza,
 - *Paradise Lost* by John Milton,
