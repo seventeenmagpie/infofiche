@@ -1,7 +1,7 @@
 .. title: How Tolkien Uses Fictional Languages
 .. slug: how-tolkien-uses-fictional-languages
 .. date: 2022-07-07 07:07:07 UTC
-.. tags: 
+.. tags: fantasy, tolkien, sff-linguistics
 .. category: 
 .. link: 
 .. description: 
