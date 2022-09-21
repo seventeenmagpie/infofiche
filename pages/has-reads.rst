@@ -20,10 +20,10 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 September:
 ----------
 - *The Order of Time* by Carlo Rovelli,
-- *Project Hail Mary* by Andy Weir,
+- *Project Hail Mary* by Andy Weir. I've written about it :doc:`on Infofiche <project-hail-mary-weir>`,
 - *Nona the Ninth* by Tamsyn Muir*,
 - *Harrow the Ninth* by Tamsyn Muir,
-- *Battle of the Linguist Mages* by Scotto Moore,
+- *Battle of the Linguist Mages* by Scotto Moore. I've written about it :doc:`on Infofiche <battle-of-the-linguist-mages>`,
 
 August:
 -------
@@ -81,7 +81,7 @@ February:
 - *The Psychology of Money* by Morgan Housal (2020),
 - *Aliens and Linguists* by Walter E. Meyers (1980),
 - *Buddha* by Osamu Tezuka. Volumes 1 and 2 of the English translation,
-- *Barrier* by Brian K. Vaughan, Marcos Martin and Muntsa Vicente. I've written about it :doc:`on Infofiche <alien-language-in-barrier-by-vaughan-and-martin>`,
+- *Barrier* by Brian K. Vaughan, Marcos Martin and Muntsa Vicente. I've written about it :doc:`on Infofiche <barrier-by-vaughan-and-martin>`,
 - *The Language Instinct* by Steven Pinker (2007),
 - *A Memory Called Empire* by Arkady Martine (2019)*. I've written about it :doc:`on Infofiche <language-alienation-and-assimilation-in-a-memory>`,
 
