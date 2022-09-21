@@ -1,7 +1,7 @@
 .. title: Battle of the Linguist Mages AKA What the Heck Just Happened
 .. slug: battle-of-the-linguist-mages
 .. date: 2022-09-09 09:09:09 UTC
-.. tags: discussions, linguistics
+.. tags: discussions, linguistics, review, sff-linguistics
 .. category: 
 .. link: 
 .. description: 

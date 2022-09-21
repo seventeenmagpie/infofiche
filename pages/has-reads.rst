@@ -19,6 +19,10 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 ====
 September:
 ----------
+- *The Order of Time* by Carlo Rovelli,
+- *Project Hail Mary* by Andy Weir,
+- *Nona the Ninth* by Tamsyn Muir*,
+- *Harrow the Ninth* by Tamsyn Muir,
 - *Battle of the Linguist Mages* by Scotto Moore,
 
 August:
