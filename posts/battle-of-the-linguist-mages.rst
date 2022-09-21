@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-(Forgot to do last months, so you'll be getting two in Sept. instead. Here's the first!)
+(Forgot to do last months, so you'll be getting two in Sept. instead. September 1/2)
 
 This book ended up on my list for two reasons: a) it has the word linguist in the title and b) it was getting talked about a lot on social media, with adjectives like "wacky", "surreal" and "what on earth is happening". Safe to say, I was intrigued, and now I've finally read it. The short and boring version of this discussion is: "this book uses a very strong version of linguistic relativity and universality to power its magic system and metaphysics, but linguistics isn't key to the plot or characterisations beyond that", that would be a injustice against a surprisingly deep and involved book.
 

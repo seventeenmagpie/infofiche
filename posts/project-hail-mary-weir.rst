@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-(SPOILERS FOR PROJECT HAIL MARY!)
+(SPOILERS FOR PROJECT HAIL MARY!) (September 2/2)
 
 *Project Hail Mary* is Andy Weir's 2021 novel of alien caused apocalypse and first contact. And, as a first contact novel, it is partially concerned with matters of communication. Below the fold we'll consider how Weir constructs his fictional language, as well as how he uses it in characterisation, especially how he treats the language in such a way as to *minimise* alienation. Spoilers for the whole plot below!
 
