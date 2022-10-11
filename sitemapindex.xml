@@ -11,7 +11,7 @@
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/aliens.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-09-21T10:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/cat_discussions.xml</loc>
@@ -27,11 +27,15 @@
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/discussions.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-09-21T10:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/fantasy.xml</loc>
   <lastmod>2022-09-21T10:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://infofiche.uk/categories/fiction-language.xml</loc>
+  <lastmod>2022-10-11T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/infofiche.xml</loc>
@@ -39,15 +43,15 @@
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/language-barriers.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-10-11T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/linguistics.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-09-21T10:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/review.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-09-21T10:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/sf-linguistics.xml</loc>
@@ -55,11 +59,11 @@
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/sf.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-09-21T10:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/sff-linguistics.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-10-11T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/categories/terra-ignota.xml</loc>
@@ -75,10 +79,10 @@
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/rss.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-10-11T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://infofiche.uk/sitemap.xml</loc>
-  <lastmod>2022-09-21T10:32:00Z</lastmod>
+  <lastmod>2022-10-11T15:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
