@@ -17,8 +17,13 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 
 2022
 ====
+October:
+--------
+- *Embassytown* by China Miéville. I've written about it :doc:`on Infofiche <embassytown-china-mieville>`,
+
 September:
 ----------
+- *Judaism: A Very Short Introduction* by Norman Solomon*,
 - *The Order of Time* by Carlo Rovelli,
 - *Project Hail Mary* by Andy Weir. I've written about it :doc:`on Infofiche <project-hail-mary-weir>`,
 - *Nona the Ninth* by Tamsyn Muir*,
