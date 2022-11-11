@@ -50,3 +50,25 @@ Novum appears to be a literary criticism word for "the new or novel", but not ju
 
 I think a translation into common speech would be "premise".
 
+Anyway he judges sci-fi (I think rightly) by how interesting and transformative their novum is, and how well they explore it.
+
+## Extracts
+Then it turned into a history book and I stopped taking notes. I am going to jot down good quotes from the first few chapters though. Here goes.
+
+"Rather, it \[SF\] should be defined as a fictiona tale determined by the hegemonic literary device of a *locus* and/or *dramatis personae* that (1) are *radically or at least signficantly different from the empirical times, places, and characters* of "mimetic" or "naturalist" fiction, but (2) are nonetheless - to the extent that SF differs from other "fantastic" genres, that is, ensembles of fictional tales without empirical validation - simultaneously percieved as *not impossible* within the cognitive (cosmological and anthropological) norms of the author's epoch." (Preface 2.1) "developed oxymoron"
+
+Chapter 2, 2.3 is where he is his meanest about fantasy. "Fossilised fragments of reasoning are used to inculate irrationality, and the social energy of readers is expended on Witches' Sabbaths instead of focusing it on the causes for our alienating, murderous, and stultifying existences: the power structures holding back the hominization of the sapiens, the true demonology of war and market breeding pride and prejudice. ... \[SF\] is at its worst, at its most alienated and alienating, when it honors the parasitism and vampirism of fantasy." 
+
+Chapter 3. 3 "Utopia is the verbal construction of a particular quasi-human community where socioplotical institutions, norms, and individual relationships are organized according to a more perfect principle than in the author's community, this construction being based on estrangement arising out of an alternative historical hypothesis." What does estrangement mean in a Marxist context?
+
+As above. "If utopia is, philosophically, a method rather than a state,"
+
+Chapter 3. 5 (The ending is the best bit of this chapter.) "All imaginable intelligent life, including ours, can be organized more or less perfectly." \[Utopia\] "is not hypostasis of the Holy Ghost, the *Zeitgeist*, or what-not, but a literary genre induced from a set of man-made books within a man-made history."
+
+Chapter 4. "SF *is distinguished by the narrative dominance or hegemony of a fictional "novum" (novelty, innovation) validated by cognitive logic*."
+
+The whole of chapter 4. section 1.1 which is very good prose about the relationship between the novum and empirical reality and history.
+
+4.1.1 again, \[the cognition involved in SF cannot be tested in a lab but\] "it *can* be methodically developed against the background of a body of already existing cognitions, or at the very least as a "mental experiment" following accepted scientific, that is cognitative, logic."
+
+4.2.6 has a good section about how the novum relates to plot.
