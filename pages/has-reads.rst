@@ -17,8 +17,15 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 
 2022
 ====
+November:
+---------
+- *Baldur's Gate: Descent into Avernus* by WotC adventure design team,
+- *The Long way to a Small Angry Planet* by Becky Chambers,
+
 October:
 --------
+- *Federico Garcia Lorca: A Life* by Ian Gibson,
+- *Metamorphoses of Science Fiction* by Dark Suvin*,
 - *Embassytown* by China Miéville. I've written about it :doc:`on Infofiche <embassytown-china-mieville>`,
 
 September:
