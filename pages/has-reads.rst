@@ -17,8 +17,14 @@ Finally, this list started in February and my memory is poor so pre feb, watch o
 
 2022
 ====
+December:
+---------
+- *Ancillary Justice* by Ann Leckie*,
+
 November:
 ---------
+- *Kraken* by China Miéville*,
+- *What is This Thing Called Science* by Alan F. Chalmers,
 - *Baldur's Gate: Descent into Avernus* by WotC adventure design team,
 - *The Long way to a Small Angry Planet* by Becky Chambers,
 
