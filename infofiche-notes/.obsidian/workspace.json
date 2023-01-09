@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@suvin_1979.md",
+                "file": "Reading notes/@kears.paz_2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d7b4309da986b87",
@@ -85,8 +86,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@suvin_1979.md",
-                "collapseAll": false,
+                "file": "Reading notes/@kears.paz_2016.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/@suvin_1979.md",
+                "file": "Reading notes/@kears.paz_2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,27 +126,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/@suvin_1979.md"
+                "file": "Reading notes/@kears.paz_2016.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
   "active": "5d595e93de115416",
   "lastOpenFiles": [
-    "Reading notes/Embassytown by China Miéville.md",
-    "Reading notes/@suvin_1979.md",
-    "Reading notes/Battle of the Linguist Mages by Scotto Moore.md",
+    "Reading notes/@kropotkin_1987.md",
+    "Reading notes/@kears.paz_2016.md",
     "Untitled.md",
     "Reading List.md",
+    "Reading notes/Embassytown by China Miéville.md",
+    "Reading notes/Battle of the Linguist Mages by Scotto Moore.md",
+    "Reading notes/@suvin_1979.md",
     "Reading notes/@argubypurnomo.etal_2017.md"
   ]
 }

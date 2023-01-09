@@ -1,4 +1,5 @@
 {
   "baseFontSize": 30,
-  "accentColor": ""
+  "accentColor": "#ff3300",
+  "cssTheme": "Obsidian gruvbox"
 }
