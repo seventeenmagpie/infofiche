@@ -1,8 +1,8 @@
 .. title: Looking in the Year-view Mirror
 .. slug: looking-in-the-year-view-mirror
-.. date: 2022-01-09 19:30 UTC
-.. tags: 
-.. category: 
+.. date: 2023-01-09 19:30 UTC
+.. tags: infofiche
+.. category: Meta
 .. link: 
 .. description: 
 .. type: text
@@ -24,7 +24,7 @@ As you can see it's not fantastic. When I was going over all my posts of this ye
 
 Firstly, I like to read books that aren't always related to this project, so after publication I would normally read one or two unrelated books and then start on next month's book in the week the month changed. But reading for leisure to a deadline is hard, especially now that I have a university workload which means I might want to read a book for my course or just not want to feel the pressure in my leisure reading. Then after I pushed to get the book read, I would have another time crunch to write and publish.
 
-This means that nearly all the blog posts, definitely the last six, had about three hours' writing in them, which is a very short time to write what I want to be a) good prose and b) well reasoned arguments. This is the key contributor to my perceived low quality for many of the posts. Nearly all of them have parts I like, and I think my analysis is broadly correct, but they aren't beautiful essays that I would be proud to show someone which is really what I want. If I were at the start of 2021 when I had to research fictional languages for a school project, and I came across this blog as it is now, I would *still* think "oh, I can do better than that". In other words this blog has failed to fill the niche I wanted it to; namely to satisfy myself.
+This means that nearly all the blog posts, definitely the last six, had about three hours' writing in them, which is a very short time to write what I want to be a) good prose and b) well reasoned arguments. This is the key contributor to my perceived low quality for many of the posts. Nearly all of them have parts I like, and I think my analysis is broadly correct, but they aren't beautiful essays that I would be proud to show someone which is really what I want. If I were at the start of 2021 when I had to research fictional languages for a school project, and I came across this blog as it is now, I would *still* think "oh, I can do better than that". This blog has failed to fill the niche I wanted it to; namely to satisfy myself.
 
 So how am I going to improve? Well the big issue is easing the time pressure. I can see two ways of doing this:
 

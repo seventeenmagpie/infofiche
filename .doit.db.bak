@@ -210,3 +210,4 @@
 'render_posts:cache\\posts\\looking-in-the-year-view-mirror.html', (891392, 427)
 'render_sources:output\\posts\\looking-in-the-year-view-mirror\\index.rst', (915456, 291)
 'render_pages:output\\posts\\looking-in-the-year-view-mirror\\index.html', (915968, 3091)
+'render_taxonomies:output\\2023\\index.html', (929280, 2228)
