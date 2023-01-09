@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://infofiche.uk/</loc>
-  <lastmod>2022-11-11T21:04:00Z</lastmod>
+  <lastmod>2023-01-09T19:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/2022/</loc>
   <lastmod>2022-03-03T20:41:00Z</lastmod>
  </url>
  <url>
+  <loc>https://infofiche.uk/2023/</loc>
+  <lastmod>2023-01-09T19:41:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://infofiche.uk/archive.html</loc>
-  <lastmod>2023-01-09T19:34:00Z</lastmod>
+  <lastmod>2023-01-09T19:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/categories/</loc>
@@ -95,7 +99,7 @@
  </url>
  <url>
   <loc>https://infofiche.uk/index-1.html</loc>
-  <lastmod>2023-01-09T19:35:00Z</lastmod>
+  <lastmod>2023-01-09T19:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://infofiche.uk/listings/</loc>
